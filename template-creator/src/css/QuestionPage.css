@@ -1,0 +1,37 @@
+.QuestionOuterBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+    height: 10vh;
+    width:60vw;
+    border: 1px solid black;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+.modal-content {
+    animation: slideIn 0.5s;
+  }
+
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+
+
+
+  .center {
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+  }
+
+  

@@ -1,0 +1,7 @@
+.rightSection{
+    border: 1px dotted gray;
+    border-radius: 160px;
+    background-color: azure;
+    height:160px;
+    width:160px
+}
