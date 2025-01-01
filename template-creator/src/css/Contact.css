@@ -1,0 +1,23 @@
+.contactcard{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.contact_inp{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+.contact_field{
+    width: 60vw;
+}
+
+.contact_inp_button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 4px;
+    width: 8rem;
+}

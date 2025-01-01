@@ -1,0 +1,49 @@
+html,body{
+    margin: 0;
+}
+
+
+.QRCode_outer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.QRCode_inner{
+    height: 35vh;
+    width: 50vw;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin: 3%;
+    /* padding: 4%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.QRCodeNext{
+    display: flex;
+    margin-top: 4rem;
+    justify-content: flex-end;
+    margin-right: 2rem;
+}
+
+.nextbtn{
+    width: 5rem;
+    height: 2rem;
+    background-color: aquamarine;
+}
+
+.QRCodeVerify{
+    width: 14rem;
+    margin-top: 20px;
+}
+
+.errordiv{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: red;
+
+}

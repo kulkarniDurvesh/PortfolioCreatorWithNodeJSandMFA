@@ -3,8 +3,8 @@ import "../../css/ProfileImage.css"
 const ProfileImage = () => {
   return (
     <div>
-        <div >
-            <img src='/ProfileImage.jpeg' className='rightSection' alt='ProfileImage' />
+        <div className='rightSection_outer' >
+            <img src='http://localhost:5000/ProfileImage.jpg' className='rightSection_inner' alt='ProfileImage' />
         </div>
     </div>
   )

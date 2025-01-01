@@ -1,8 +1,8 @@
 
 const Questionnaire = {
-    "Q.1":"Please Mention Your Skills !",
-    "Q.2":"Please Mention Your Experience !",
-    "Q.3":"Please Mention Your Education !",
-    "Q.4":"Please Mention Your Extra Curricular Activities !"
+    "Q.1":"Please Mention About Yourself !",
+    "Q.2":"Please Mention About Main Project !",
+    "Q.3":"Please Mention Your Engineering Education !",
+    "Q.4":"Please Mention Your 12th Education !"
 }
 export default Questionnaire

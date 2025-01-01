@@ -1,0 +1,61 @@
+{
+    "user": {
+        "bc6d96be-fe15-4609-98d5-598dad66881b": {
+            "id": "bc6d96be-fe15-4609-98d5-598dad66881b",
+            "secret": {
+                "ascii": "Eh8MTF<kP%!2KSp$l>>reo^H0T$pDhC.",
+                "hex": "4568384d54463c6b502521324b5370246c3e3e72656f5e48305424704468432e",
+                "base32": "IVUDQTKUIY6GWUBFEEZEWU3QERWD4PTSMVXV4SBQKQSHARDIIMXA",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=IVUDQTKUIY6GWUBFEEZEWU3QERWD4PTSMVXV4SBQKQSHARDIIMXA"
+            }
+        },
+        "2e2cd73d-33fe-4238-b1a4-f2338f0eeec7": {
+            "id": "2e2cd73d-33fe-4238-b1a4-f2338f0eeec7",
+            "secret": {
+                "ascii": "^IyRH7LTaO*Cq?*x(9P?dHz9[e/tsaSE",
+                "hex": "5e49795248374c54614f2a43713f2a782839503f64487a395b652f7473615345",
+                "base32": "LZEXSUSIG5GFIYKPFJBXCPZKPAUDSUB7MREHUOK3MUXXI43BKNCQ",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=LZEXSUSIG5GFIYKPFJBXCPZKPAUDSUB7MREHUOK3MUXXI43BKNCQ"
+            }
+        },
+        "Durvesh@7": {
+            "id": "Durvesh@7",
+            "secret": {
+                "ascii": "1<iZdBJ7*EWQLIA$8xZ!}H&fakRHn.pU",
+                "hex": "313c695a64424a372a4557514c49412438785a217d482666616b52486e2e7055",
+                "base32": "GE6GSWTEIJFDOKSFK5IUYSKBEQ4HQWRBPVECMZTBNNJEQ3ROOBKQ",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=GE6GSWTEIJFDOKSFK5IUYSKBEQ4HQWRBPVECMZTBNNJEQ3ROOBKQ"
+            }
+        },
+        "Ashutosh@7": {
+            "id": "Ashutosh@7",
+            "secret": {
+                "ascii": "F[Tin6EEiGgMW.P3cPiIpb}Q(Td)WZTL",
+                "hex": "465b54696e3645456947674d572e50336350694970627d5128546429575a544c",
+                "base32": "IZNVI2LOGZCUK2KHM5GVOLSQGNRVA2KJOBRH2UJIKRSCSV22KRGA",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=IZNVI2LOGZCUK2KHM5GVOLSQGNRVA2KJOBRH2UJIKRSCSV22KRGA"
+            }
+        },
+        "Dnyaneshwar@7": {
+            "id": "Dnyaneshwar@7",
+            "secret": {
+                "ascii": "M<ISsIGTU:R%>QRoDhO,iFUsT8J!ZvLQ",
+                "hex": "4d3c495373494754553a52253e51526f44684f2c6946557354384a215a764c51",
+                "base32": "JU6ESU3TJFDVIVJ2KIST4UKSN5CGQTZMNFDFK42UHBFCCWTWJRIQ",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=JU6ESU3TJFDVIVJ2KIST4UKSN5CGQTZMNFDFK42UHBFCCWTWJRIQ"
+            }
+        },
+        "Rakesh@7": {
+            "id": "Rakesh@7",
+            "secret": {
+                "ascii": "3Tya#sz7R9]Ta?L4gsiw8U})b^xht5T}",
+                "hex": "3354796123737a3752395d54613f4c346773697738557d29625e78687435547d",
+                "base32": "GNKHSYJDON5DOURZLVKGCP2MGRTXG2LXHBKX2KLCLZ4GQ5BVKR6Q",
+                "otpauth_url": "otpauth://totp/SecretKey?secret=GNKHSYJDON5DOURZLVKGCP2MGRTXG2LXHBKX2KLCLZ4GQ5BVKR6Q"
+            },
+            "password": "Rakesh@7",
+            "firstName": "Rakesh",
+            "lastName": "Kulkarni"
+        }
+    }
+}
