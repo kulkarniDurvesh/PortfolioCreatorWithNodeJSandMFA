@@ -1,0 +1,21 @@
+/* darkMode.css */
+
+/* Example styles for dark mode */
+body.dark-mode {
+    background-color: #121212;
+    color: #fff;
+  }
+  
+  .dark-mode .header_middle {
+    color: #fff; /* Adjust header text color */
+  }
+  
+  .dark-mode .dark-mode-toggle {
+    background-color: #333; /* Adjust toggle button background color */
+    color: #fff; /* Adjust toggle button text color */
+  }
+
+.dark-mode{
+    background-color: #121212;
+    color: #fff;
+}

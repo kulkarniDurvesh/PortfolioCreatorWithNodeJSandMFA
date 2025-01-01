@@ -1,0 +1,15 @@
+.middleSection{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar_flex{
+    background-color: #f8f8ff;
+    display: flex;
+    align-items: center;
+    border-radius: 2rem;
+    z-index: 99999;
+    margin: 1rem;
+    padding-right: 1rem;
+}

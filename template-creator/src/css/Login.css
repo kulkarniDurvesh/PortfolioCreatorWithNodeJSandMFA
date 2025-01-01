@@ -1,0 +1,96 @@
+html, body {
+ /* Ensure that html and body take up the full height of the viewport */
+    margin: 0;
+
+}
+
+.LoginPage_outerdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.LoginPage_innerdiv {
+    height: 80vh; /* Set height to 60% of the viewport height */
+    width: 60vw; /* Set width to 60% of the viewport width */
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin: 5%;
+    padding: 4%;
+}
+
+.logindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginrow{
+    padding: 10px 0px;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.Registerbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.errordiv{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: red;
+
+}
+
+.errordivLogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+
+}
+
+.LoginInput{
+    width: 100%;
+    height: 2rem;
+    margin: 1rem 0rem 1rem 0rem;
+    font-style: italic;
+    border-radius: 5px;
+}
+
+.LoginSubmitbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.Loginbtn{
+    width: 6rem;
+    height: 2rem;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.Registerationdir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.Logindir{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

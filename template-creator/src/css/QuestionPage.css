@@ -1,0 +1,90 @@
+.QuestionOuterBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+    height: 10vh;
+    width:60vw;
+    border: 1px solid black;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+}
+
+.modal-content {
+    animation: slideIn 0.5s;
+    height: 80vh;
+}
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+
+
+
+.center {
+    /* border: 5px solid; */
+    position: absolute;
+    display: grid;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* padding: 10px; */
+  }
+
+.Logoutbtn{
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  padding: 1rem;
+}  
+
+.ql-container.ql-snow {
+  border: 1px solid #ccc;
+  height: 40vh !important;
+  overflow-y: scroll !important;
+}
+
+.QuestButtons >.row>button{
+  width: 25vw;
+  text-align: center;
+  margin:5px;
+  padding: 5px;
+
+}
+
+.skillsets{
+  background-color: lightgray;
+  height: 100%;
+  width: 40%;
+}
+
+.skillcard {
+  /* border: 5px solid; */
+  position: absolute;
+  display: grid;
+  top: 50%;
+  left: 50%;
+  transform: translate(150%, -50%);
+  /* padding: 10px; */
+}
+
+.skilllist{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0px 5px 0px;
+  margin: 0px 15px 0px 15px;
+}
+
+.display_skill_card{
+  height: 12%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: slategray;
+    border-radius: 0px 0px 5px 5px;
+    margin-bottom: 5px;
+}

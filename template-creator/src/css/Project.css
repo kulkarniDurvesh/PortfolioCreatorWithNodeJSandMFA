@@ -1,0 +1,16 @@
+/* .project_flex{
+    height: 60vh;
+    width: 85vw;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+} */
+
+.project_flex:hover {
+	transform: translateY(-5px);
+}
+img:hover {
+    filter: brightness(50%);
+}

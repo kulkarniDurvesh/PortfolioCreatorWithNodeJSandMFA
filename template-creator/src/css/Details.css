@@ -1,0 +1,17 @@
+.imagepreview{
+    background-color: aquamarine;
+    height: 40vh;
+    width: 100%;
+    margin-top: 10px;
+}
+.uploadbtn{
+    width: 100%;
+    margin-top: 10px ;
+}
+
+.DetailsPageSubmit{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
